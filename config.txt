@@ -1,0 +1,9 @@
+owner=413660639668731914
+prefix=-play
+game=#Riyderz|-play
+stayinchannel=true
+songinstatus=false
+token=NTc2MzU0NTQ2OTUyMDQ0NTU1.XNfeqQ.Cj1qEH9YQvUSfwHRuGEJDT8afPk
+
+
+
